@@ -359,7 +359,7 @@ h6 a,
 .shop-page .single-product .product-name .add-to-cart a,
 .shop-details .product-details .product-info .price,
 .faq-page .panel-group .panel-heading h6 a:before {
-  color: #001a57;
+  color: #9E1F24;
 }
 .p-bg-color,
 .scroll-top,
@@ -383,7 +383,7 @@ h6 a,
 .theme-pagination ul li.active a,
 .blog-sidebar .sidebar-tags ul li.active a,
 .blog-sidebar .sidebar-tags ul li a:hover {
-  background: #001a57;
+  background: #9e1f24;
 }
 .header-one .top-header .address-wrapper .quotes a,
 #theme-main-banner .camera_pag .camera_pag_ul li,
@@ -1075,7 +1075,7 @@ body .theme-button-one:hover {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 26, 87, 0.7);
+  background: rgba(158, 31, 36, 0.7);
   border-radius: 5px 5px 0 0;
   -webkit-transform: scale(1, 0);
   transform: scale(1, 0);
@@ -1095,17 +1095,15 @@ body .theme-button-one:hover {
   margin: 0 2px;
 }
 .our-team .team-member .overlay .hover-content ul li a {
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  border: 1px solid #fff;
+  /* width: 40px;
+  height: 40px; */
   line-height: 38px;
   color: #fff;
-  font-size: 14px;
+  font-size: 120px;
 }
-.our-team .team-member .overlay .hover-content ul li a:hover {
+/* .our-team .team-member .overlay .hover-content ul li a:hover {
   background: #fff;
-}
+} */
 .our-team .team-member .overlay .hover-content p {
   line-height: 25px;
   color: #fff;
@@ -1631,7 +1629,6 @@ body .theme-button-one:hover {
 }
 .our-case .single-case-block img {
   width: 100%;
-  border-radius: 5px;
 }
 .our-case .single-case-block .hover-content {
   position: absolute;
@@ -1639,7 +1636,7 @@ body .theme-button-one:hover {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 26, 87, 0.6);
+  background: rgba(158, 31, 36, 0.6);
   border-radius: 5px;
   -webkit-transform: scale(1, 0);
   transform: scale(1, 0);

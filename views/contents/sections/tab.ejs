@@ -1,0 +1,23 @@
+<div class="our-case">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-6 tabcenter">
+        <button
+          class="tablink"
+          onclick="openPage('Blog', this)"
+          id="defaultOpen"
+        >
+          블로그
+        </button>
+      </div>
+      <div class="col-lg-6 tabcenter">
+        <button class="tablink" onclick="openPage('News', this)">
+          언론보도
+        </button>
+      </div>
+    </div>
+  </div>
+  <div id="Blog" class="tabcontent"><%include ./tabs/tab#1 %></div>
+
+  <div id="News" class="tabcontent"><%include ./tabs/tab#2 %></div>
+</div>

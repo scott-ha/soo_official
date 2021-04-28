@@ -1,0 +1,35 @@
+<div class="our-case">
+  <div class="container">
+    <div class="row" style="margin-bottom: 56px">
+      <div class="col-lg-3 tabcenter">
+        <button class="tablink tablink-tax" onclick="openPage('Tax-1', this)">
+          기장업무 수수료
+        </button>
+      </div>
+      <div class="col-lg-3 tabcenter">
+        <button class="tablink tablink-tax" onclick="openPage('Tax-2', this)">
+          부가세 신고대행
+        </button>
+      </div>
+      <div class="col-lg-3 tabcenter">
+        <button
+          class="tablink tablink-tax"
+          onclick="openPage('Tax-3', this)"
+          style="letter-spacing: -1.44px"
+          id="defaultOpen"
+        >
+          소득세신고 수수료
+        </button>
+      </div>
+      <div class="col-lg-3 tabcenter">
+        <button class="tablink tablink-tax" onclick="openPage('Tax-2', this)">
+          재산세 신고대행
+        </button>
+      </div>
+    </div>
+  </div>
+  <div id="Tax-1" class="tabcontent"><%include ./tabs/tab#1 %></div>
+  <div id="Tax-2" class="tabcontent"><%include ./tabs/tab#2 %></div>
+  <div id="Tax-3" class="tabcontent"><%include ./tabs/tab#3 %></div>
+  <div id="Tax-4" class="tabcontent"><%include ./tabs/tab#4 %></div>
+</div>
