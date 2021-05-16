@@ -1,5 +1,5 @@
 /* START DEFAULT */
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,600,700,800,900");
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans:300,400,500,600,700,800,900");
 
 :root {
   --soo-burgundy: #9e1f24;
@@ -7,12 +7,12 @@
   --soo-black: #2f2822;
 }
 html {
-  font-family: "Source Sans Pro", sans-serif;
   font-weight: normal;
+  font-family: 'Noto Sans KR', sans-serif;
 }
 body {
-  font-family: "Source Sans Pro", sans-serif;
   font-weight: normal;
+  font-family: 'Noto Sans KR', sans-serif;
 }
 
 /* END DEFAULT */
@@ -111,7 +111,7 @@ video {
   margin-bottom: 24px;
 }
 .process-hexa-text {
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-size: 24px;
   font-weight: bold;
   color: #2f2822;
@@ -121,94 +121,96 @@ video {
 .section-title {
   color: #2f2822;
   font-size: 40px;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   letter-spacing: -1.44px;
   font-weight: 300;
 }
 .section5-title {
   color: #b59e76;
   font-size: 32px;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-weight: bold;
   margin-top: 92px;
 }
 .tab-section-txt {
   color: #2f2822;
   font-size: 32px;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-weight: 300;
   line-height: 1.5;
 }
 .section1-title {
   color: #9e1f24;
   font-size: 28px;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
+  line-height: 1.14;
+  letter-spacing: -1.01px;
 }
 .solution-title {
   color: #9e1f24;
   font-size: 36px;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-weight: bold;
   padding-top: 140px;
 }
 .works-section1-title {
   color: #9e1f24;
   font-size: 36px;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-weight: bold;
 }
 .works-section1-txt {
   color: #000000;
   font-size: 24px;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-weight: 300;
   line-height: 1.67;
 }
 .works-section3-title-r {
   color: #9e1f24;
   font-size: 24px;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
 }
 .works-section3-title-g {
   color: #b59e76;
   font-size: 24px;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
 }
 .work-section3-text {
   font-size: 20px;
   color: #000000;
-  font-family: "Open Sans", sans-serif;
+ font-family: 'Noto Sans KR', sans-serif;
   font-weight: normal;
 }
 .section4-title {
   color: #9e1f24;
   font-size: 28px;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-weight: bold;
 }
 .section1-text {
   font-size: 20px;
   color: #323232;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-weight: normal;
 }
 .section6-title {
   color: #323232;
   font-size: 24px;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-weight: 500;
   margin-bottom: 4px;
 }
 .section6-text {
   font-size: 20px;
   color: #323232;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-weight: 300;
 }
 .news-company {
   color: #000000;
   font-size: 16px;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-weight: bold;
   line-height: 1.14;
   letter-spacing: -0.77px;
@@ -218,7 +220,7 @@ video {
 .news-title {
   color: #323232;
   font-size: 28px;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-weight: bold;
   line-height: 1.14;
   letter-spacing: -1.01px;
@@ -228,7 +230,7 @@ video {
 .news-content {
   color: #000000;
   font-size: 20px;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-weight: 300;
   line-height: 1.6;
   letter-spacing: -0.96px;
@@ -238,7 +240,7 @@ video {
 .news-date {
   color: #707070;
   font-size: 16px;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-weight: normal;
   line-height: 2.5;
   letter-spacing: -0.77px;
@@ -309,7 +311,7 @@ video {
 .content-title1 {
   color: #9e1f24;
   font-size: 16px;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-weight: normal;
   line-height: 1.13;
   margin: 16px;
@@ -317,7 +319,7 @@ video {
 .content-title2 {
   color: #323232;
   font-size: 20px;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-weight: 500;
   line-height: 1.4;
   margin: 16px;
@@ -325,7 +327,7 @@ video {
 .content-hash {
   color: #797979;
   font-size: 16px;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-weight: normal;
   line-height: 1.13;
   margin: 16px;
@@ -348,14 +350,14 @@ video {
 .price-title {
   color: #9e1f24;
   font-size: 24px;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-weight: 500;
   margin-bottom: 36px;
 }
 .price-desc {
   color: #707070;
   font-size: 16px;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-weight: normal;
   line-height: 1.5;
   letter-spacing: -0.77px;
@@ -364,7 +366,7 @@ video {
 .price-tax3-title {
   color: #323232;
   font-size: 24px;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-weight: 500;
   text-align: left;
   margin-left: 185px;
@@ -373,7 +375,7 @@ video {
 select {
   width: 804px;
   padding: 17px 24px;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   color: rgba(112, 112, 112, 0.8);
   font-size: 20px;
   background: url("/images/bgs/arrow.png") no-repeat 95% 50%;
@@ -396,7 +398,7 @@ select::-ms-expand {
 .input-tax {
   width: 770px;
   padding: 17px 24px;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Noto Sans KR', sans-serif;
   color: rgba(112, 112, 112, 0.8);
   font-size: 20px;
   border-radius: 8px;
@@ -476,7 +478,7 @@ input-tax:focus {
   float: left;
   outline: none;
   cursor: pointer;
-  font-family: "Open Sans", sans-serif;
+  /* font-family: "Noto Sans", sans-serif; */
   font-weight: normal;
   font-size: 24px;
   padding: 10px 115px;
