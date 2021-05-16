@@ -13,6 +13,7 @@ html {
 body {
   font-weight: normal;
   font-family: 'Noto Sans KR', sans-serif;
+  font-size: 62.5%;
 }
 
 /* END DEFAULT */
@@ -66,7 +67,7 @@ video {
   height: auto;
 }
 .main-content {
-  background: #fdfdfd;
+  background: #ffffff;
   text-align: center;
 }
 .main-content-sec3 {
@@ -120,96 +121,96 @@ video {
 }
 .section-title {
   color: #2f2822;
-  font-size: 40px;
+  font-size: 4rem;
   font-family: 'Noto Sans KR', sans-serif;
   letter-spacing: -1.44px;
   font-weight: 300;
 }
 .section5-title {
   color: #b59e76;
-  font-size: 32px;
+  font-size: 3.2rem;
   font-family: 'Noto Sans KR', sans-serif;
   font-weight: bold;
   margin-top: 92px;
 }
 .tab-section-txt {
   color: #2f2822;
-  font-size: 32px;
+  font-size: 3.2rem;
   font-family: 'Noto Sans KR', sans-serif;
   font-weight: 300;
   line-height: 1.5;
 }
 .section1-title {
   color: #9e1f24;
-  font-size: 28px;
+  font-size: 2.8rem;
   font-family: 'Noto Sans KR', sans-serif;
   line-height: 1.14;
   letter-spacing: -1.01px;
 }
 .solution-title {
   color: #9e1f24;
-  font-size: 36px;
+  font-size: 3.6rem;
   font-family: 'Noto Sans KR', sans-serif;
   font-weight: bold;
   padding-top: 140px;
 }
 .works-section1-title {
   color: #9e1f24;
-  font-size: 36px;
+  font-size: 3.6rem;
   font-family: 'Noto Sans KR', sans-serif;
   font-weight: bold;
 }
 .works-section1-txt {
   color: #000000;
-  font-size: 24px;
+  font-size: 2.4rem;
   font-family: 'Noto Sans KR', sans-serif;
   font-weight: 300;
   line-height: 1.67;
 }
 .works-section3-title-r {
   color: #9e1f24;
-  font-size: 24px;
+  font-size: 2.4rem;
   font-family: 'Noto Sans KR', sans-serif;
 }
 .works-section3-title-g {
   color: #b59e76;
-  font-size: 24px;
+  font-size: 2.4rem;
   font-family: 'Noto Sans KR', sans-serif;
 }
 .work-section3-text {
-  font-size: 20px;
+  font-size: 2rem;
   color: #000000;
  font-family: 'Noto Sans KR', sans-serif;
   font-weight: normal;
 }
 .section4-title {
   color: #9e1f24;
-  font-size: 28px;
+  font-size: 2.8rem;
   font-family: 'Noto Sans KR', sans-serif;
   font-weight: bold;
 }
 .section1-text {
-  font-size: 20px;
+  font-size: 2rem;
   color: #323232;
   font-family: 'Noto Sans KR', sans-serif;
   font-weight: normal;
 }
 .section6-title {
   color: #323232;
-  font-size: 24px;
+  font-size: 2.4rem;
   font-family: 'Noto Sans KR', sans-serif;
   font-weight: 500;
   margin-bottom: 4px;
 }
 .section6-text {
-  font-size: 20px;
+  font-size: 2.0rem;
   color: #323232;
   font-family: 'Noto Sans KR', sans-serif;
   font-weight: 300;
 }
 .news-company {
   color: #000000;
-  font-size: 16px;
+  font-size: 1.6rem;
   font-family: 'Noto Sans KR', sans-serif;
   font-weight: bold;
   line-height: 1.14;
@@ -229,7 +230,7 @@ video {
 }
 .news-content {
   color: #000000;
-  font-size: 20px;
+  font-size: 2rem;
   font-family: 'Noto Sans KR', sans-serif;
   font-weight: 300;
   line-height: 1.6;
@@ -261,7 +262,7 @@ video {
 .btn-sec2 {
   border-radius: 28px;
   width: 400px;
-  font-size: 20px;
+  font-size: 2rem;
   padding: 13px 100px;
   background: #b59e76;
   margin-top: 92px;
@@ -270,7 +271,7 @@ video {
 .btn-sec3 {
   border-radius: 8px;
   width: 400px;
-  font-size: 20px;
+  font-size: 2rem;
   padding: 13px 100px;
   background: #9e1f24;
   margin-top: 92px;
@@ -279,8 +280,8 @@ video {
 .btn-price {
   border-radius: 28px;
   width: 400px;
-  font-size: 20px;
-  padding: 13px 100px;
+  font-size: 2rem;
+  padding: 13px 80px;
   margin-left: 200px;
   margin-top: 24px;
   background: #b59e76;
@@ -289,7 +290,7 @@ video {
 .btn-soo {
   border-radius: 8px;
   width: 200px;
-  font-size: 20px;
+  font-size: 2rem;
   padding: 13px;
   margin-top: 92px;
   background: #9e1f24;
@@ -298,6 +299,14 @@ video {
 .section-banner {
   border-bottom: 0.5px solid #000000;
   margin-bottom: 120px;
+}
+.footer-text {
+  font-size: 1.6rem;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.75;
+  letter-spacing: -0.58px;
 }
 .borderb {
   border-bottom: 0.5px solid #323232;
@@ -318,7 +327,7 @@ video {
 }
 .content-title2 {
   color: #323232;
-  font-size: 20px;
+  font-size: 2rem;
   font-family: 'Noto Sans KR', sans-serif;
   font-weight: 500;
   line-height: 1.4;
@@ -326,7 +335,7 @@ video {
 }
 .content-hash {
   color: #797979;
-  font-size: 16px;
+  font-size: 1.6rem;
   font-family: 'Noto Sans KR', sans-serif;
   font-weight: normal;
   line-height: 1.13;
@@ -349,14 +358,14 @@ video {
 }
 .price-title {
   color: #9e1f24;
-  font-size: 24px;
+  font-size: 2.4rem;
   font-family: 'Noto Sans KR', sans-serif;
   font-weight: 500;
   margin-bottom: 36px;
 }
 .price-desc {
   color: #707070;
-  font-size: 16px;
+  font-size: 1.6rem;
   font-family: 'Noto Sans KR', sans-serif;
   font-weight: normal;
   line-height: 1.5;
@@ -365,7 +374,7 @@ video {
 }
 .price-tax3-title {
   color: #323232;
-  font-size: 24px;
+  font-size: 2.4rem;
   font-family: 'Noto Sans KR', sans-serif;
   font-weight: 500;
   text-align: left;
@@ -377,7 +386,7 @@ select {
   padding: 17px 24px;
   font-family: 'Noto Sans KR', sans-serif;
   color: rgba(112, 112, 112, 0.8);
-  font-size: 20px;
+  font-size: 2rem;
   background: url("/images/bgs/arrow.png") no-repeat 95% 50%;
   background-size: 24px 14.5px;
   border-radius: 8px;
@@ -400,7 +409,7 @@ select::-ms-expand {
   padding: 17px 24px;
   font-family: 'Noto Sans KR', sans-serif;
   color: rgba(112, 112, 112, 0.8);
-  font-size: 20px;
+  font-size: 2rem;
   border-radius: 8px;
   border: solid 1px #707070;
   -webkit-appearance: none;
@@ -478,17 +487,18 @@ input-tax:focus {
   float: left;
   outline: none;
   cursor: pointer;
-  /* font-family: "Noto Sans", sans-serif; */
+  font-family: "Noto Sans KR", sans-serif;
   font-weight: normal;
-  font-size: 24px;
-  padding: 10px 115px;
+  font-size: 2.4rem;
+  padding: 10px 100px;
+  letter-spacing: normal;
   width: 448px;
   height: 56px;
   background-color: #ffffff;
 }
 .tablink-tax {
-  font-size: 20px;
-  padding: 13px 49px;
+  font-size: 2rem;
+  padding: 13px 45px;
   width: 232px;
 }
 .tablink:hover {
